@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Plan Argento
 
-You can use the [editor on GitHub](https://github.com/planargento/planargento.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Plan Argento es un proyecto que aspira a proveer una **alternativa real para el ahorro** en Argentina, que le **gane a la inflación**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tradicionalmente la población de Argentina recurre al **dólar** u a otra divisa para este fin. Pero esto tiene consecuencias negativas, como una constante presión sobre la cotización de estas divisas medidas en pesos argentinos y una gradual fuga de capitales. Hay otras alternativas como los **fondos comunes de inversión** y las **criptomonedas** como el Bitcoin, pero estos son generalmente bastante riesgosos para pequeños ahorristas.
 
-### Markdown
+Por esto, estamos trabajando en una plataforma que combine las ventajas del dólar - que casi siempre le gana a la inflación y su propuesta de valor es fácil de comprender - y los fondos de inversión, que son de origen nacional y no generan fuga de capitales.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## La solución
 
-```markdown
-Syntax highlighted code block
+La solución del Plan Argento se basa en dos tecnologías:
 
-# Header 1
-## Header 2
-### Header 3
+* **Smart property.** Se provee una plataforma para poder representar bienes reales en una blockchain.
+* **Meta-Tokens.** Los meta-tokens proveen una forma de agregar tokens de varios orígenes para formar uno sólo.
 
-- Bulleted
-- List
+Pronto más detalles.
 
-1. Numbered
-2. List
+## Hoja de ruta
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/planargento/planargento.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **Creación del prototipo**. Este se basará en una tecnología liviana. ETA: Verano 2020/2021
+* **Creación del producto final**. ETA: Otoño-invierno 2021
